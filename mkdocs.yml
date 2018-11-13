@@ -1,0 +1,18 @@
+site_name: Knowledge base
+site_description: Assorted recepies and notes
+site_author: Ivan Pesin
+theme:
+  name: null
+  custom_dir: 'mkdocs-material/material'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  language: 'en'
+  font: 
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  logo: 
+    icon: 'school'
+  feature: ''
+repo_name: 'ivanpesin/kb'
+repo_url: 'https://github.com/ivanpesin/kb'
