@@ -13,6 +13,21 @@ theme:
     code: 'Ubuntu Mono'
   logo: 
     icon: 'school'
+  favicon: 'assets/images/favicon.png'
   feature: ''
 repo_name: 'ivanpesin/kb'
 repo_url: 'https://github.com/ivanpesin/kb'
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - footnotes
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tilde
