@@ -1,0 +1,5 @@
+site
+mkdocs-material
+*~
+*.swp
+*.swo
